@@ -1,0 +1,13 @@
+Package: popkern
+Type: Package
+Title: Kernel Quantile Regression
+Version: 0.1.0
+Author: Zach Gagnon
+Maintainer: Zach Gagnon <zjg7473@g.rit.edu>
+Description: pop_kqr uses the kqr function from the kernlab package for a Kernel learner.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  kernlab
+RoxygenNote: 7.2.3
